@@ -1,0 +1,34 @@
+.timer {
+    padding-top: 100px;
+    color: #353535;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.value {
+    background: #FFFFFF;
+    text-align: center;
+    font-size: 40px;
+}
+
+.label {
+    width: 100%;
+    height: auto;
+    background: #FF5722;
+    color: #FFFFFF;
+    font-size: 70%;
+}
+
+.field {
+    width: 10%;
+    height: 100px;
+    display: flex;
+    margin-right: 5px;
+    justify-content: center;
+    flex-direction: column;
+    background: #FFFFFF;
+    box-shadow: 5px 6px 9px 1px rgba(53, 53, 53, 0.5);
+    text-align: center;
+}
