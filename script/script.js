@@ -26,5 +26,5 @@ const CountdownTimer = function ({ selector, targetDate }) {
 
 new CountdownTimer({
   selector: "#timer-1",
-  targetDate: new Date("May 1, 2020"),
+  targetDate: new Date("July 22, 2020"),
 });
